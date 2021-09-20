@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SJERP.Domain", "src\SJERP.D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SJERP.Infrastructure", "src\SJERP.Infrastructure\SJERP.Infrastructure.csproj", "{7FBFBBDE-C1C5-40BC-8218-C751D430E21B}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{007B4621-1229-4166-85D8-D0D8972F7B16}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
